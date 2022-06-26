@@ -1,15 +1,3 @@
-# C# Network Library
-
-[![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
-
-Tutorials https://www.indie-dev.at/overview-en/ <br />
-Downloads http://www.indie-dev.at/?page_id=480 <br />
-Licence http://www.indie-dev.at/?page_id=525 <br />
-Documentation http://www.indie-dev.at/?page_id=476 <br />
-NuGet https://www.nuget.org/packages/Network/ <br />
-Chat: https://discordapp.com/invite/tgAzGby <br />
-
 # Continuous Integration
 
 | Build | Architecture | Framework Target | Badge |
@@ -25,10 +13,6 @@ Chat: https://discordapp.com/invite/tgAzGby <br />
 | NuGet | Download Count | ![NuGet](https://img.shields.io/nuget/dt/Network.svg) |
 | NuGet | Current Version | ![NuGet](https://img.shields.io/nuget/v/Network.svg) |
 | Discord | Chat-Room | [![Discord](https://img.shields.io/discord/502989126916898837.svg)](https://discord.gg/tgAzGby) |
-
-# Support
-
-[Buy me a coffee ☕](https://www.buymeacoffee.com/yoghurt)
 
 # Supported Frameworks
 
